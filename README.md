@@ -34,6 +34,3 @@ Open the `index.html` file in your favorite web browser to play the game.
 
 This project was created as a fun and educational exercise in web development using HTML, CSS, and JavaScript.
 
-## License
-
-Distributed under the MIT License. See `LICENSE` for more information.
