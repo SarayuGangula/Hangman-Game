@@ -25,6 +25,7 @@ To get a local copy up and running follow these simple steps:
     ```sh
     cd hangman-game
     ```
+![Screenshot 2024-07-30 010415](https://github.com/user-attachments/assets/bb5d39a2-df5c-4f4e-9361-4e0b7c776bc1)
 
 ## Usage🪴
 
